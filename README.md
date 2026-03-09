@@ -1,4 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=chitte-bot&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chitte-bot&show_icons=true&theme=radical)
 # 💫 About Me:
 I,m Currently learning
 
