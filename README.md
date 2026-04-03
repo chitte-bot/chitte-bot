@@ -21,6 +21,8 @@ I,m Currently learning
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chitte-bot&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chitte-bot&show_icons=true&theme=radical)
 
+![GitHub Streak](https://streak
+stats.demolab.com/?user=chitte-bot&theme=shadow)
 ---
 [![](https://visitcount.itsvg.in/api?id=chitte-bot&icon=0&color=3)](https://visitcount.itsvg.in)
 
